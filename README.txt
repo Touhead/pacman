@@ -4,6 +4,7 @@ GENERAL USAGE NOTES
 --------------------
 
 - To run this application, the server needs to meet some specification :
+	- You need to open the port 6000 and 6100
 	- The runnable server.jar have to be on the side of a folder name 'maze' which containts the map for the game.
 	- Example : ~/myfolder/server.jar and ~/myfolder/maze/
 
